@@ -1,9 +1,9 @@
 - title: Email
   url: mailto://zy3020984881@gmial.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/yushi616
-  icon: fab fa-twitter
+- title: QQ
+  url: http://wpa.qq.com/msgrd?v=3&uin=3020984881&site=qq&menu=yes
+  icon: fab fa-qq
 - title: GitHub
   url: https://github.com/yushi616
   icon: fab fa-github
